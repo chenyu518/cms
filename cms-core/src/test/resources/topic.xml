@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<t_channel id="1" name="User Management Module" custom_link="0" custom_link_url="#" type="0"
+		is_index="0" is_top_nav="0" recommend="0" status="0" orders="1"/>
+		
+		<t_channel id="2" name="User Management1" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="1" pid="1"/>
+		<t_channel id="3" name="User Management2" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="2" pid="1"/>
+		<t_channel id="4" name="User Management3" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="3" pid="1"/>
+		<t_channel id="5" name="User Management4" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="4" pid="1"/>
+		
+	<t_channel id="6" name="Article Management Module" custom_link="0" custom_link_url="#" type="0"
+		is_index="0" is_top_nav="0" recommend="0" status="0" orders="2"/>
+		
+		<t_channel id="7" name="Article Management1" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="1" pid="6"/>
+		<t_channel id="8" name="Article Management2" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="2" pid="6"/>
+		<t_channel id="9" name="Article Management3" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="3" pid="6"/>
+		<t_channel id="10" name="Article Management4" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="4" pid="6"/>
+	
+	<t_channel id="11" name="System Management Module" custom_link="0" custom_link_url="#" type="0"
+		is_index="0" is_top_nav="0" recommend="0" status="0" orders="3"/>
+		
+		<t_channel id="12" name="System Management1" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="1" pid="11"/>
+		<t_channel id="13" name="System Management2" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="2" pid="11"/>
+		<t_channel id="14" name="System Management3" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="3" pid="11"/>
+		<t_channel id="15" name="System Management4" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="4" pid="11"/>
+	
+	<t_channel id="16" name="Recruitment anagement module" custom_link="0" custom_link_url="#" type="0"
+		is_index="0" is_top_nav="0" recommend="0" status="0" orders="4"/>
+		
+		<t_channel id="17" name="Recruitment management1" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="1" pid="16"/>
+		<t_channel id="18" name="Recruitment management12" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="2" pid="16"/>
+		<t_channel id="19" name="Recruitment management13" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="3" pid="16"/>
+		<t_channel id="20" name="Recruitment management14" custom_link="0" custom_link_url="#" type="0"
+			is_index="0" is_top_nav="0" recommend="0" status="0" orders="4" pid="16"/>
+
+	<t_group_channel id="1" g_id="1" c_id="1"/>
+	<t_group_channel id="2" g_id="1" c_id="2"/>
+	<t_group_channel id="3" g_id="1" c_id="3"/>
+	<t_group_channel id="4" g_id="1" c_id="6"/>
+	<t_group_channel id="5" g_id="1" c_id="8"/>
+
+	<t_group_channel id="6" g_id="2" c_id="11"/>
+	<t_group_channel id="7" g_id="2" c_id="12"/>
+	<t_group_channel id="8" g_id="2" c_id="13"/>
+	<t_group_channel id="9" g_id="2" c_id="16"/>
+	<t_group_channel id="10" g_id="2" c_id="17"/>
+	<t_group_channel id="11" g_id="2" c_id="18"/>
+
+	<t_group_channel id="12" g_id="3" c_id="7"/>
+	<t_group_channel id="13" g_id="3" c_id="6"/>
+</dataset>
