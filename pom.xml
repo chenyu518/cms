@@ -12,6 +12,7 @@
     <module>cms-web</module>
     <module>cms-topic</module>
     <module>basic-common</module>
+    <module>review</module>
   </modules>
   <packaging>pom</packaging>
 
